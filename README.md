@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Alt text](img/cup-of-coffee-g9a0169d70_640.jpg)
 
 <!--
 **hakanyalcinkayadev/hakanyalcinkayadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
